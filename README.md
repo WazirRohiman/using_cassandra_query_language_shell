@@ -1,1 +1,2 @@
-# using_cassandra_query_language_shell
+#Guide to using the Cassandra Query Language (CQL) Shell
+
